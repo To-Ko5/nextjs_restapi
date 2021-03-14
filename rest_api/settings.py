@@ -29,7 +29,7 @@ DEBUG = config('DEBUG')
 # SECURITY WARNING: don't run with debug turned on in production!
 
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['nextjs-rest-api1.herokuapp.com']
 
 
 # Application definition
